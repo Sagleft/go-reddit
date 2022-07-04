@@ -1,4 +1,4 @@
-module github.com/sagleft/go-reddit/v2
+module github.com/sagleft/go-reddit
 
 go 1.15
 
